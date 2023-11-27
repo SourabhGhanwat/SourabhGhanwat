@@ -55,11 +55,7 @@ Discover the world of software testing with me in a way even a 10-year-old can u
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sourabh.ghanwat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sourabh.ghanwat/1" alt="Recent article #2" width = '11000' ></a>
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
 ---
-
-<br>
 
 ### Here's some humor for you:
 <a href="https://github.com/SourabhGhanwat"><img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
