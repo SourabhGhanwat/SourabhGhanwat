@@ -44,18 +44,6 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<br>
-
-### Blogs posts 
-Discover the world of software testing with me in a way even a 10-year-old can understand! Subscribe to my latest blogs and dive into the fun of tech exploration. 🌟🔍🔧 Read the latest blogs here -
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<br>
-<!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sourabh.ghanwat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sourabh.ghanwat/0" alt="Recent article #1 " width = '11000' ></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sourabh.ghanwat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sourabh.ghanwat/1" alt="Recent article #2" width = '11000' ></a>
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### Here's some humor for you:
 <a href="https://github.com/SourabhGhanwat"><img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
